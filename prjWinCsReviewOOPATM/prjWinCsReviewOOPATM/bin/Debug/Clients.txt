@@ -1,0 +1,16 @@
+﻿cl001
+Bill Gates
+windows
+active
+cl002
+Steve Jobs
+apple
+active
+cl003
+Yuu Fan
+positive
+active
+cl004
+An Thanh Trinh
+water
+active

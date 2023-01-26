@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prjWinCsReviewOOPATM.clsAccount">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAEAAAAIAAAAEggAAAEAAIAAAAAARAAAAAAAAI=</HashCode>
+      <FileName>clsAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsReviewOOPATM.clsListAccount">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAQAAAAEIAAAAAAAQCAEAAAA=</HashCode>
+      <FileName>clsListAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsReviewOOPATM.clsClient">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAEAAAAAAAAAEgCAxQAAAIBAACAAAAAAAAAAAA=</HashCode>
+      <FileName>clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsReviewOOPATM.clsListClient">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQAQAAAAEIAAAAAAAQCAEAAAA=</HashCode>
+      <FileName>clsListClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsReviewOOPATM.clsATM">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgIAAgAGggQQAAAAIACAACAAAABACAAAA=</HashCode>
+      <FileName>clsATM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

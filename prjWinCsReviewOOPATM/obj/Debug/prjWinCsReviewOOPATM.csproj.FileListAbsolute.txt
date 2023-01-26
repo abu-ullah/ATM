@@ -1,0 +1,12 @@
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.frmMain.resources
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.Properties.Resources.resources
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.csproj.GenerateResource.cache
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.csproj.CoreCompileInputs.cache
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\bin\Debug\prjWinCsReviewOOPATM.exe.config
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\bin\Debug\prjWinCsReviewOOPATM.exe
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\bin\Debug\prjWinCsReviewOOPATM.pdb
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.exe
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.pdb
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.frmATM.resources
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.csproj.AssemblyReference.cache
+C:\Users\abul_\source\repos\420-DA3AS\prjWinCsReviewOOPATM\prjWinCsReviewOOPATM\obj\Debug\prjWinCsReviewOOPATM.csproj.SuggestedBindingRedirects.cache

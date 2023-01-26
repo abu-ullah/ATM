@@ -1,0 +1,16 @@
+﻿cl001
+Bill Gates
+windows
+active
+cl002
+Steve Jobs
+apple
+active
+cl003
+You Pan
+poutine
+active
+cl004
+Abu Ullah
+1234
+active
